@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Configuración del servidor MQTT
-MQTT_SERVER="208.76.222.165"
+MQTT_SERVER="10.121.18.90"
 MQTT_PORT="1883"
 TOPIC="sensor/scanner/bluetooth"
 
